@@ -21,7 +21,7 @@ export default {
 
 <style lang="css">
 .cardhead {
-  background-color: aquamarine;
+  background-color: #7FFFD4 !important;
   color: black;
   font-size: 24px;
 }
